@@ -1,2 +1,13 @@
 # BaseConversion
-A beginner project that converts any base among Binary, Decimal, Octal, Hexadecimal to the remaining bases. (from Intro to Computer Systems and Platform Technologies course)
+An Assembly project that:
+
+_ Allow user to choose which base number to enter and convert to remaining bases.
+(binary, decimal, octal, hexadecimal)
+
+_ Display appropriate error message if input is invalid.
+
+_ Let the user run another conversion without restarting the program.
+
+_ Display a message after the user quits
+___________________________________________________________________________________
+This assignment is from Intro to Computer Systems and Platform Technologies course

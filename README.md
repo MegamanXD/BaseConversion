@@ -1,5 +1,4 @@
-# BaseConversion
-An Assembly project that:
+## Feature
 
 _ Allow user to choose which base number to enter and convert to remaining bases.
 (binary, decimal, octal, hexadecimal)
@@ -10,4 +9,6 @@ _ Let the user run another conversion without restarting the program.
 
 _ Display a message after the user quits
 ___________________________________________________________________________________
-This assignment is from Intro to Computer Systems and Platform Technologies course
+## Assignment from
+
+Intro to Computer Systems and Platform Technologies course

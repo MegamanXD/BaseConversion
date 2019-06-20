@@ -1,4 +1,4 @@
-## Feature
+## Features
 
 _ Allow user to choose which base number to enter and convert to remaining bases.
 (binary, decimal, octal, hexadecimal)
